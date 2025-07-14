@@ -59,3 +59,27 @@
 
 // console.log(tinderUser.hasOwnProperty('isLOggedIn')); //false | spelling mistake 
 // console.log(tinderUser.hasOwnProperty('isLoggedIn')); //true
+
+// ---------------------
+
+// const course = {
+//   coursename : "react in hindi",
+//   price : "999",
+//   constInstructor: "hemant"
+// }
+
+// const {constInstructor : instructor} = course
+// console.log(instructor);
+ 
+//---------------json-------------->
+// {
+//   "coursename" : "react in hindi",
+//   "price" : "999",
+//   "constInstructor" : "hemant"
+// }
+
+// [
+//   {},
+//   {},
+//   {}
+// ]
